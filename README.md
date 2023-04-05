@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, I'm Ben Levi 👋👨🏻‍💻
-<p>
-### Programming Languages 🚀
 
+### Programming Languages 🚀
+<p>
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
