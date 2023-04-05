@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <br/>
 <br/>
-<hr style="border: 1px solid red;">
+<hr style="border: 0.5px solid red;">
 
 ### Tools 🔥
 
@@ -40,5 +40,4 @@ Here are some ideas to get you started:
 <img alt="Postman" align="left" width="36px" src="https://user-images.githubusercontent.com/106863159/230042032-f367b2e5-49c7-414b-8b4a-09a8cd5001c4.png"/>
 <br/>
 <br/>
-<hr style="border: 1px solid red;">
-<br/>
+<hr style="border: 0.5px solid red;">
