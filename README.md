@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Ben Levi 👋👨🏻‍💻
+### Hi there, I'm Ben Levi 👋👨🏻‍💻
+<hr>
 
 ### Programming Languages 🚀
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
