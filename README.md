@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, I'm Ben Levi 👋👨🏻‍💻
-
+<p>
 ### Programming Languages 🚀
 
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 <img align="left" alt="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-
 </p>
-## 
+## .
 
 <br/>
 
