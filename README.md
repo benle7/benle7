@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 <img alt="CLion" align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332831-1dfed800-2008-11eb-85dc-9925b457b3d4.png"/>
 <img alt="Git" align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png"/>
 <img alt="GitHub" align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/>
-<img alt="GitHub" align="left" width="36px" src="https://user-images.githubusercontent.com/106863159/230042032-f367b2e5-49c7-414b-8b4a-09a8cd5001c4.png"/>
+<img alt="Postman" align="left" width="36px" src="https://user-images.githubusercontent.com/106863159/230042032-f367b2e5-49c7-414b-8b4a-09a8cd5001c4.png"/>
 
 <br/>
