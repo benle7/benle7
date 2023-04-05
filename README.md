@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <hr style="border: 1px solid red;">
-<br/>
 
 ### Tools 🔥
 
